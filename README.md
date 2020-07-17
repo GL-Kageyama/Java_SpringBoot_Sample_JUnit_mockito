@@ -7,7 +7,7 @@ A unit test sample of Spring Boot using JUnit and mockito.
 
 The test method can be called from the test code.
 
-![JUnit](https://user-images.githubusercontent.com/36861752/87736057-1e355680-c812-11ea-9e84-1ec9c78c81b3.png)
+![JUnit2](https://user-images.githubusercontent.com/36861752/87736291-b5021300-c812-11ea-9d69-47c2a4fa5cd6.png)
 
 
 # mockito
